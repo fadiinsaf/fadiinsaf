@@ -2,7 +2,7 @@
 
 💻 I'm a passionate **Web Developer** who loves creating modern, responsive, and creative websites.  
 🎯 I enjoy building **mini projects** using **HTML, CSS, and JavaScript** to sharpen my skills.  
-⚙️ I also code in **C** and I'm currently learning **advanced JavaScript** and **Python**.  
+⚙️ I also code in **C** and I'm currently learning **JavaScript**.  
 
 ---
 
@@ -36,7 +36,8 @@ I'm focusing on mastering **JavaScript** and building **interactive mini website
 
 ### 📫 Contact Me
 - 🐙 **GitHub:** [github.com/fadiinsaf](https://github.com/fadiinsaf)  
-- 💼 **LinkedIn:** [linkedin.com/in/fadi-insaf](https://www.linkedin.com/in/fadi-insaf-802820390?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+- 💼 **LinkedIn:** [linkedin.com/in/fadi-insaf](https://www.linkedin.com/in/fadi-insaf-802820390?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
+- 📧 **Email:** [fadiinsafff@gmail.com](mailto:fadiinsafff@gmail.com)
 
 ---
 
