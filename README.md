@@ -1,60 +1,58 @@
-# 👋 Hi there, I'm **Fadi Insaf**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there,%20I'm%20Fadi%20Insaf%20%F0%9F%91%8B&fontSize=45&fontAlignY=35&animation=twinkling" width="100%" />
 
-💻 I'm a passionate **Full-Stack Web Developer** who loves creating modern, responsive, and dynamic web applications.  
-🔥 I build **frontend interfaces**, **backend systems**, and **full-stack mini projects** to sharpen my skills and explore new technologies.  
-🛡️ I also have **some experience in Cybersecurity**, and I enjoy learning and experimenting with **Linux and Kali Linux**.  
-🚀 Always learning, always improving.
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Vue.js+%26+React+Developer;UI%2FUX+Enthusiast;Cybersecurity+Learner" alt="Typing SVG" />
+  </a>
+</div>
+
+<br>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="30" /> About Me
+
+I am a passionate **Full-Stack Web Developer** currently studying at **YOUCODE** (Web & Mobile Development). I love creating modern, responsive, and dynamic web applications that not only work flawlessly but look great too. 
+
+With a background in **UI/UX Design** and **Graphic Design**, I prioritize the user experience. I also have a strong interest in **Cybersecurity**, regularly exploring Linux environments and penetration testing tools to ensure the applications I build are secure.
+
+- 🌱 I’m currently expanding my stack with **Vue.js**, **React**, **Docker**, and **PostgreSQL**.
+- 🛠️ I love blending clean backend logic with beautiful UI interfaces.
+- 🐧 I use Linux systems daily for my development environment.
+- 💬 Ask me about **Laravel**, **Vue.js**, **Tailwind CSS**, or **UI/UX principles**.
 
 ---
 
-## 🚀 What I Do
-- 🌐 **Frontend Development:** HTML, CSS, JavaScript  
-- 🎨 Styling with **Bootstrap** & **Tailwind CSS**  
-- ⚙️ **Backend Development:** PHP, MySQL, Laravel  
-- 🧩 Building full-stack mini applications  
-- 🐧 Daily use of Linux systems (development + tools)  
-- 🔐 Practicing cybersecurity fundamentals and tools  
-- 💡 Writing clean, readable, and maintainable code  
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="30" /> Tech Stack & Tools
 
----
-
-## 🛠️ Languages & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,php,laravel,mysql,c,python,git,github,linux,vscode" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,vue,react,bootstrap,tailwind,php,laravel,mysql,postgres,docker,git,github,linux,kali,photoshop,illustrator&perline=9" alt="Fadi's Skills" />
+  </a>
 </p>
 
----
-
-## 💬 Technologies & Skills
-- 🎨 **HTML, CSS, JavaScript** — interactive and responsive UI  
-- 💻 **PHP & Laravel** — backend, routing, APIs, authentication  
-- 🗄️ **MySQL / SQL** — database design, queries, optimization  
-- 🐧 **Linux / Kali Linux** — terminal, tools, system config  
-- 🛡️ **Cybersecurity (Fundamentals + Hands-on Practice)**  
-  - Basic network security  
-  - Using Kali tools safely for learning  
-  - System hardening and analysis  
-- 📦 **Git & GitHub** — project management & version control  
-- 🧠 **C** — strong logic fundamentals  
-- 🐍 **Python** — scripting & automation  
+### 💡 Core Competencies
+- **Frontend:** HTML5, CSS3, JavaScript, Vue.js, React, Bootstrap, Tailwind CSS
+- **Backend & Databases:** PHP, Laravel, MySQL, PostgreSQL
+- **Tools & DevOps:** Git, GitHub, Docker, Composer, Jira
+- **Design:** UI/UX, Photoshop, Illustrator, InDesign
+- **Security:** Linux, Kali Linux, Nmap, Security Fundamentals
 
 ---
 
-## 🌱 Current Focus
-I'm currently learning and improving:
-- 🔸 Advanced **Laravel** concepts  
-- 🔸 Full-Stack Web Apps  
-- 🔸 Tailwind CSS for modern UI
-- 🔸 Backend logic & database optimization  
-- 🔸 More cybersecurity skills & Linux tools  
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="30" /> GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fadiinsaf&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fadiinsaf&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadiinsaf&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="" width="48%" />
+</div>
 
 ---
 
-## 📫 Contact Me
-- 🐙 **GitHub:** [github.com/fadiinsaf](https://github.com/fadiinsaf)  
-- 💼 **LinkedIn:** [linkedin.com/in/fadi-insaf](https://www.linkedin.com/in/fadi-insaf-802820390)  
-- 📧 **Email:** [fadiinsafff@gmail.com](mailto:fadiinsafff@gmail.com)
-
----
-
-⭐ **“Every line of code brings me closer to my goals.”** 🚀
+<p align="center">
+  🚀
+  <br>
+  ⭐ <i>"Every line of code brings me closer to my goals."</i>
+</p>
